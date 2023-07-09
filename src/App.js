@@ -34,16 +34,24 @@ function App() {
           of your day here.
         </p>
         <p>
-          if you make <d5>$50,000</d5> a year thats
+          if you make <d5>$51,000</d5> a year thats
         </p>
         <p>
-         <d5> ${(seconds/ 86400) * 136.986}</d5>
+         <d5> ${(seconds/ 86400) * 139.7260273973}</d5>
         </p>
         <p>
           <d6>(after NYC taxes:
-        <d5>${((seconds/ 86400) * 136.986) * 0.77}</d5>)</d6>
+        <d5>${((seconds/ 86400) * 139.7260273973) * 0.77}</d5>)</d6>
         </p>
-    
+        <p>
+        if you lived in Burundi and made <d5>$216</d5> per year
+          </p>
+          <p>
+            that would have been 
+          </p>
+          <p>
+          <d5>${(seconds/ 86400) * 0.03}</d5>
+          </p>
       </header>
     </div>
   );
