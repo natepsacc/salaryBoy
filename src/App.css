@@ -1,5 +1,7 @@
+
 .App {
   text-align: center;
+  line-height: 40%;
 }
 
 .App-logo {
@@ -14,7 +16,7 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  background-color: #000000;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -35,4 +37,13 @@
   to {
     transform: rotate(360deg);
   }
+}
+d5{
+  font-size: inherit;
+  color: green;
+  padding: inherit;
+  margin: inherit;
+}
+d6{
+  font-size: 10pt;
 }
