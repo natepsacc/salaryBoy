@@ -33,7 +33,7 @@ function App() {
       <header className="App-header">
         <p>you have spent</p>
         <p>
-          {seconds / 86400}% ({seconds} seconds)
+          {seconds / 864}% ({seconds} seconds)
         </p>
         <p>
           of your day here.
